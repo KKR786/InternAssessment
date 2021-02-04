@@ -1,0 +1,37 @@
+#box{
+    height: 700px;
+    background-color: rgb(87, 80, 80);
+    width: 100px;
+    text-align: center;
+}
+
+#design
+{
+    display:flex;
+    
+}
+#search{
+    float: right;
+}
+#chat{
+    text-align: center;
+}
+#henryDetail{
+    font-family: 'Courier New', Courier, monospace;
+    text-align: center;
+    width: auto;
+    margin-top: 50px;
+    margin-right: 40px;
+}
+#designmodoDetail{
+    text-align: center;
+    width: auto;
+    margin-top: 50px;
+    margin-right: 150px;
+}
+#designerDetail{
+    text-align: center;
+    width: auto;
+    margin-top: 50px;
+    margin-right: 150px;
+}
